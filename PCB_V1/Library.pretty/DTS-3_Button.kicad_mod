@@ -1,0 +1,97 @@
+(footprint "DTS-3_Button"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -9.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a00194cb-bb8a-4fce-a50d-132b78f20024")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "DTS-3_Button"
+		(at 0 -7.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7d433dfa-065a-4caa-9cfb-605d5231394b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 -8.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "196f7193-94b6-4afa-aa00-058c0e4b9a9b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 -8.75 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b002d492-703f-48db-b7df-e02bf26f741e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -3.25 -1.75)
+		(end 3.25 1.75)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "f9d5078e-fcc7-481d-a70e-678ea1af62e2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -6.25 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "89ef9014-db11-4556-9595-1717a1e3e19f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -4.62 0)
+		(size 2.75 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "dc40b37f-d193-42fd-8918-154c8b45db84")
+	)
+	(pad "2" smd roundrect
+		(at 4.63 0)
+		(size 2.75 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "b48cd49e-7130-4fdc-a6a1-091a6a379206")
+	)
+	(embedded_fonts no)
+)

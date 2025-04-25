@@ -1,0 +1,105 @@
+(footprint "SSL-12F20-G4"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "5a13d751-fbc3-4811-81a1-bfe38e4685c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SSL-12F20-G4"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d53aa34a-fd58-4af1-a5e9-302760de98b8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0ddb56ea-7b2e-4da1-9558-c14861ba43db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "629b3a14-1dea-4454-9d48-73f9e5196804")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -5.25 2.1)
+		(end 5.25 7.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "0183aee8-5858-41ee-87d8-46be037f8fac")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.05 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3a7cc2db-894d-4ba1-8367-d762920e7fd5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -3 5)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c3e1ead7-9ecd-4c73-93df-5e389a9ca858")
+	)
+	(pad "2" thru_hole circle
+		(at 0 5)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0758ec83-0c11-4c0b-8436-b0a83e8e84e1")
+	)
+	(pad "3" thru_hole circle
+		(at 3 5)
+		(size 1.5 1.5)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fa430763-aa2c-4b2e-8be3-bf34c5dba0a4")
+	)
+	(embedded_fonts no)
+)
