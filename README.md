@@ -5,7 +5,8 @@ This PCB is designed for an air quality monitoring station, with air quality sen
 # 3D-PCB
 ![image](https://github.com/user-attachments/assets/6b47943f-e7ff-4c5b-8434-3a541b901fd1)
 # Final PCB 
-![pcbF](https://github.com/user-attachments/assets/fe26fb20-f344-4d75-8cdc-0c522a31c866)
+![pcbF](https://github.com/user-attachments/assets/8cae09d5-faa5-44b5-bc0e-2829ab692904)
+
 
  # SENSORS
 
