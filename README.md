@@ -10,6 +10,10 @@ This PCB is designed for an air quality monitoring station, with air quality sen
 
  # SENSORS
 
-SHT31 
+## SHT31 Temprature & Humanity
 
 "The SHT31 sensor is a highly accurate and stable sensor with low power consumption."
+
+## MiCS-5524 Carbon monoxide
+
+## SDS011 PM2.5 & PM10
