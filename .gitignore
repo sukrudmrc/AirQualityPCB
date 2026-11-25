@@ -1,0 +1,28 @@
+# Gizli bilgiler (ESP32 ağ geçidi)
+secrets.h
+
+# KiCad
+*-backups/
+_autosave-*
+*.kicad_prl
+fp-info-cache
+~*.lck
+*.bak
+*-bak
+\#auto_saved_files#
+
+# STM32CubeIDE
+Debug/
+Release/
+.metadata/
+yazilim/istasyon-stm32/Drivers/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# İşletim sistemi
+.DS_Store
+Thumbs.db
+desktop.ini

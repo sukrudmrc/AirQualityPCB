@@ -1,0 +1,27 @@
+Bu depo, içerik türüne göre üç farklı açık lisansla dağıtılmaktadır.
+Lisansların tam metinleri LICENSES/ klasöründedir.
+
+Telif hakkı (c) 2025 Şükrü Demirci ve katkıda bulunanlar.
+
+1. Donanım: CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)
+   Kapsam: donanim/ (KiCad şematik ve kart dosyaları, kütüphaneler,
+   Gerber/delik dosyaları, şema PDF'i, kart malzeme listesi)
+   Metin: LICENSES/CERN-OHL-P-2.0.txt
+   SPDX-License-Identifier: CERN-OHL-P-2.0
+
+2. Yazılım: MIT Lisansı
+   Kapsam: yazilim/ ve betikler/ içindeki kaynak kodlar
+   Metin: LICENSES/MIT.txt
+   SPDX-License-Identifier: MIT
+
+   İstisna: yazilim/istasyon-stm32 altında STM32CubeMX tarafından üretilen
+   dosyalar ile STMicroelectronics'e ait başlık ve başlangıç dosyaları kendi
+   dosya başlıklarında belirtilen koşullara tabidir. Bu lisans, yalnızca bu
+   dosyalardaki "USER CODE" bölümlerinde yazılan proje koduna uygulanır.
+
+3. Veri, görseller ve belgeler: Creative Commons Atıf 4.0 Uluslararası (CC BY 4.0)
+   Kapsam: veri/, belgeler/ ve README dosyaları
+   Metin: LICENSES/CC-BY-4.0.txt
+   SPDX-License-Identifier: CC-BY-4.0
+
+Bu çalışmayı kullanırken lütfen CITATION.cff dosyasındaki bilgilerle atıf yapın.
