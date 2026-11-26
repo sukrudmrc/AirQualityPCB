@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Bu çalışmayı kullanırsanız lütfen aşağıdaki bilgilerle atıf yapın."
+title: "LoRa Tabanlı Hava Kalitesi İzleme İstasyonu"
+abstract: >-
+  Düşük maliyetli, güneş enerjili ve açık kaynaklı bir hava kalitesi izleme
+  istasyonu: STM32F103 tabanlı özgün devre kartı, SDS011 (PM2.5/PM10),
+  SHT31 (sıcaklık/nem) ve MiCS-5524 (CO) sensörleri, E220-900T22D LoRa
+  modülleri ve ThingSpeak'e veri aktaran ESP32 ağ geçidi.
+type: software
+authors:
+  - family-names: Demirci
+    given-names: Şükrü
+    affiliation: "Manisa Celal Bayar Üniversitesi"
+  - family-names: Baştürk
+    given-names: İlhan
+    affiliation: "Manisa Celal Bayar Üniversitesi"
+repository-code: "https://github.com/sukrudmrc/AirQualityPCB"
+url: "https://thingspeak.mathworks.com/channels/2948169"
+license:
+  - CERN-OHL-P-2.0
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - LoRa
+  - hava kalitesi
+  - air quality
+  - STM32
+  - ESP32
+  - KiCad
+  - açık donanım
+  - IoT
+version: 1.0.0
+date-released: "2026-11-25"
