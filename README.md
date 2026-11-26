@@ -200,7 +200,7 @@ Bu çalışmayı kullanırsanız lütfen makaleye atıf yapın. GitHub'daki **"C
   author       = {Demirci, Şükrü and Baştürk, İlhan},
   title        = {Düşük Maliyetli, Güneş Enerjili ve Açık Kaynaklı LoRa Tabanlı
                   Hava Kalitesi İzleme İstasyonu},
-  howpublished = {\url{https://github.com/sukrudmrc/lora-hava-kalitesi-istasyonu}},
+  howpublished = {\url{https://github.com/sukrudmrc/AirQualityPCB}},
   note         = {Makale değerlendirme aşamasındadır}
 }
 ```

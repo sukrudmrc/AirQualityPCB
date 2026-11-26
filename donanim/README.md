@@ -3,7 +3,8 @@
 Sensör istasyonunun devre kartı KiCad 9 ile tasarlanmıştır. Kartın merkezinde STM32F103C8T6 mikrodenetleyicisi bulunur. Sensörler ve E220 LoRa modülü kart üzerindeki soketlere takılır.
 
 <p align="center">
-  <img src="../belgeler/gorseller/pcb_3b.png" alt="Kartın KiCad 3B görünümü" width="60%">
+  <img src="../belgeler/gorseller/pcb_3b.png" alt="Kartın KiCad 3B görünümü" width="49%">
+  <img src="../belgeler/gorseller/pcb.jpg" alt="Üretilen boş devre kartı" width="40%">
 </p>
 
 ## Kart özellikleri

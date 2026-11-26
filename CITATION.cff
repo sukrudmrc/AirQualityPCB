@@ -14,7 +14,7 @@ authors:
   - family-names: Baştürk
     given-names: İlhan
     affiliation: "Manisa Celal Bayar Üniversitesi"
-repository-code: "https://github.com/sukrudmrc/lora-hava-kalitesi-istasyonu"
+repository-code: "https://github.com/sukrudmrc/AirQualityPCB"
 url: "https://thingspeak.mathworks.com/channels/2948169"
 license:
   - CERN-OHL-P-2.0

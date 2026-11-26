@@ -26,3 +26,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Betiğin ürettiği PDF kopyası (PNG depoda)
+belgeler/gorseller/sensor_testleri.pdf
+.settings/
